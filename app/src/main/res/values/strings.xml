@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DokterKu</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_connections">Connections</string>
+    <string name="menu_profile">Profile</string>
+    <string name="search_user">Search user</string>
+    <string name="about_me">About me</string>
+    <string name="no_connections">There\'s no connections right here, let\'s follow some people</string>
+</resources>
